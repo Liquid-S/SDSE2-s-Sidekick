@@ -1,6 +1,6 @@
 # Super Duper Script Editor 2's Sidekick (aka SDSE2's Sidekick)
 With this tool you'll be able to check how much your translation has progressed,
-which files are yet to be translated and rebuil them to their original format.
+which files are yet to be translated and rebuild them to their original format.
 
 Keep in mind that it works only with the "Super Duper Script Editor 2",
 so if you are not using the SDSE2, the SDSE2's Sidekick is not useful to you.
